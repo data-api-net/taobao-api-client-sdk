@@ -1,4 +1,4 @@
-# data-api-net-taobao-api-client-sdk
+# taobao-api-client-sdk
 
 We are providing several unofficial real-time Taobao APIs.
 
